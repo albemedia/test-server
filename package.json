@@ -1,12 +1,12 @@
 {
-  "name": "deltomapi",
+  "name": "test-server",
   "version": "1.0.0",
-  "description": "API for Deltom CMR",
+  "description": "Test Server para una API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jesus Alvarez",
+  "author": "Joseph Tfenkji",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
